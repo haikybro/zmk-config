@@ -19,5 +19,5 @@
 #
 ---
 include:
-  - board: xiao_rp2040
+  - board: xiao_rp2040//zmk
     artifact-name: DE60_HKB
